@@ -1,4 +1,5 @@
 input
+short-input
 zig-cache/
 zig-out/
 /release/
